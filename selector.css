@@ -1,0 +1,21 @@
+* div {background:gainsboro;}
+
+
+p:hover {background:#E5E7EB; color: #111827}
+* div{color: #F3F4F6 ; font-weight: 400; font-style: sans-serif;}
+* div {
+    padding-top: 10px;
+    padding-right: 15px; 
+    padding-bottom: 10px; 
+    padding-left: 15px;
+}
+nav * {font-style: sans-serif; font-weight: 400; color: black;} 
+* nav {
+    padding-top: 10px;
+    padding-right: 15px; 
+    padding-bottom: 10px; 
+    padding-left: 15px;
+}
+a:hover {background: gainsboro;}
+
+* nav { background: lightskyblue}
